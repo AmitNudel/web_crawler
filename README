@@ -1,0 +1,26 @@
+Crawler - Amit Nudel
+-------
+
+About the project - 
+-----------------
+A simple web crawler, for links and photos.
+
+Features:
+--------
+Link crawler for getting links, with the info of valid/invalid urls. 
+
+Photo crawler - for getting photos urls, without copies of the same image. 
+
+Future updates:
+--------------
+*print of the imgaes 
+*levels of urls 
+
+How to install dependencies:
+---------------------------
+Give premissions to the install.sh file, then run it. 
+
+How to use:
+----------
+Run as a regular python program.
+
